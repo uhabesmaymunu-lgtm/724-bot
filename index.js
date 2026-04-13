@@ -22,4 +22,4 @@ client.on('ready', () => {
   console.log("Sese bağlandım ve 7/24 buradayım!");
 });
 
-client.login('MTQ5MjU2MTcxODk3NzQ5NTA3MQ.GWMYwP.jJxStY1uNkjM2FXAJ3dX25kDMIC16WwHv_uKzY');
+client.login('MTQ5MjU2MTcxODk3NzQ5NTA3MQ.G67sf0.Jm_EGy7iKlu3AzDcqxTasi1B2A6p3RXe9VH_aM');
